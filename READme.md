@@ -3,7 +3,6 @@
 Sneak Freak is a sleek, frontend-based e-commerce platform dedicated to sneaker enthusiasts. 
 This responsive website provides a visually engaging interface for users to browse, explore, 
 and view detailed product pages for trending sneakers.
-
 ---
 
 ## 📁 Project Structure
@@ -43,8 +42,7 @@ and view detailed product pages for trending sneakers.
 
 ## 🎯 Purpose
 
-To build a niche ecommerce platform tailored to sneaker lovers while learning frontend UI/UX principles and best practices in responsive design.
-
+This project was developed as an early frontend learning project focused on building responsive ecommerce interfaces and improving practical JavaScript development skills.
 ---
 
 ## 🚀 How to Run
